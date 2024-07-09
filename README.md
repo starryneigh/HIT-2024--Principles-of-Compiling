@@ -1,6 +1,6 @@
 # HIT-2024--Principles-of-Compiling
 
-知识表示与推理的一些资料，具体分为以下几个部分：
+编译原理的一些资料，具体分为以下几个部分：
 
 - Books：龙书链接；
 - Exercises：一些练习题目；
